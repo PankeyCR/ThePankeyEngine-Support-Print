@@ -11,11 +11,6 @@ namespace pankey{
 				a_printer.writeInt(a_printing);
 			}
 
-			template<class Printer>
-			void print(Printer& a_printer, int a_printing){
-				a_printer.writeInt(a_printing);
-			}
-
 		}
 
 	}
